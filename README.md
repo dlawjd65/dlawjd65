@@ -23,7 +23,7 @@
 `RAG` `YOLOv8` `MobileNet` `OCR` `OpenAI` `AWS Bedrock`
 
 **Design**
-`Adobe Photoshop` `Illustrator` `InDesign` `UI/UX 디자인`
+`Adobe Photoshop` `Illustrator` `InDesign` `Figma` `Adobe XD`
 
 ―――――――――――――――――――――――――――――――
 
